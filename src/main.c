@@ -59,7 +59,7 @@ void compile(const char *line){
 }
 int main() {
     char line[256];
-    FILE *in = fopen("programm_.scv","r");
+    FILE *in = fopen("programm_.bc","r");
     if (!in) {
         perror("Не удалось открыть входной файл");
         return 1;
