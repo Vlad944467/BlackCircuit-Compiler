@@ -1,4 +1,4 @@
-# Название компилятора
+# BlackCircuit-Compiler
 
 Компилятор языка BlackCircuit. Читает `programm_.bc`, выдаёт `programm_.bin` (машинный код).
 
